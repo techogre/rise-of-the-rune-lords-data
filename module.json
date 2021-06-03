@@ -1,0 +1,32 @@
+{   
+   "name": "rise-of-the-runelords-data",   
+   "title": "Rise Of The Runelords - Shared Data",   
+   "description": "Data for Rise Of The Runelords shared by any system.",   
+   "author": "Daniel Gallant",
+   "version": "0.1.0",
+   "minimumCoreVersion": "0.8.6",
+   "compatibleCoreVersion":"0.8.6",
+   "packs": [
+    {
+      "name": "folders",
+      "label": "My Folders",
+      "path": "packs/folders.db",
+      "entity": "Folder",
+      "module": "SharedData"
+    },
+    {
+      "name": "monsters",
+      "label": "My Monsters",
+      "path": "packs/monsters.db",
+      "entity": "Actor",
+      "module": "SharedData"
+    },
+    {
+      "name": "scenes",
+      "label": "My Scenes",
+      "path": "packs/scenes.db",
+      "entity": "Scene",
+      "module": "SharedData"
+    }
+  ]
+ }

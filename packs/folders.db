@@ -1,0 +1,6 @@
+{"name":"Book 1","type":"JournalEntry","parent":"63I31BTtHmDlA4r6","sorting":"a","sort":0,"color":null,"flags":{},"_id":"4DUGOSGFOGjYPOqt"}
+{"name":"Handouts","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"63I31BTtHmDlA4r6"}
+{"name":"Points Of Interest","type":"JournalEntry","parent":"rR59iuG8X5b3h5kq","sorting":"a","sort":0,"color":null,"flags":{},"_id":"TLYPL3BFLwBVmZzW"}
+{"_id":"ZarwDCYax83BzVEh","name":"Sandpoint","type":"Actor","parent":null,"sorting":"a","sort":-100000,"color":null,"flags":{}}
+{"_id":"o5JImRAWJ2MXtbiL","name":"NPCs","type":"Actor","parent":null,"sorting":"a","sort":-200000,"color":null,"flags":{}}
+{"name":"Sandpoint","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"rR59iuG8X5b3h5kq"}
