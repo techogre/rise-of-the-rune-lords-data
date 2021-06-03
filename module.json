@@ -9,12 +9,6 @@
 	"download": "https://github.com/techogre/rise-of-the-rune-lords-data/archive/main.zip",
 	"minimumCoreVersion": "0.8.6",
 	"compatibleCoreVersion":"0.8.6",
-	"dependencies": [
-		{
-			"name": "compendium-folders",
-			"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
-		}
-	],
 	"packs": [
 		{
 			"name": "folders",
