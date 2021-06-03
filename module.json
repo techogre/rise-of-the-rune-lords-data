@@ -4,9 +4,9 @@
    "description": "Data for Rise Of The Runelords shared by any system.",   
    "author": "Daniel Gallant",
    "version": "0.1.0",
-   	"url": "https://github.com/techogre/rise-of-the-rune-lords-data",
-	"manifest": "https://github.com/techogre/rise-of-the-rune-lords-data/master/module.json",
-	"download": "https://github.com/techogre/rise-of-the-rune-lords-data/archive/master.zip",
+   "url": "https://github.com/techogre/rise-of-the-rune-lords-data",
+   "manifest": "https://github.com/techogre/rise-of-the-rune-lords-data/master/module.json",
+   "download": "https://github.com/techogre/rise-of-the-rune-lords-data/archive/master.zip",
    "minimumCoreVersion": "0.8.6",
    "compatibleCoreVersion":"0.8.6",
    "packs": [
