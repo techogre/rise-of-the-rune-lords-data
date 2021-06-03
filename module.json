@@ -11,31 +11,31 @@
 	"compatibleCoreVersion":"0.8.6",
 	"dependencies": [
 		{
-		"name": "compendium-folders",
-		"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
+			"name": "compendium-folders",
+			"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
 		}
 	],
 	"packs": [
 		{
-		"name": "folders",
-		"label": "My Folders",
-		"path": "packs/folders.db",
-		"entity": "Folder",
-		"module": "rise-of-the-runelords-data"
+			"name": "folders",
+			"label": "My Folders",
+			"path": "packs/folders.db",
+			"entity": "Folder",
+			"module": "rise-of-the-runelords-data"
 		},
-	 {
-		"name": "journal",
-		"label": "My Journal Entries",
-		"path": "packs/journal.db",
-		"entity": "JournalEntry",
-		"module": "rise-of-the-runelords-data"
-	 },
-	 {
-		"name": "scenes",
-		"label": "My Scenes",
-		"path": "packs/scenes.db",
-		"entity": "Scene",
-		"module": "rise-of-the-runelords-data"
-	 }
+		 {
+			"name": "journal",
+			"label": "My Journal",
+			"path": "packs/journal.db",
+			"entity": "Journal",
+			"module": "rise-of-the-runelords-data"
+		 },
+		 {
+			"name": "scenes",
+			"label": "My Scenes",
+			"path": "packs/scenes.db",
+			"entity": "Scene",
+			"module": "rise-of-the-runelords-data"
+		 }
   ]
 }
