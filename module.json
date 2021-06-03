@@ -15,21 +15,21 @@
       "label": "My Folders",
       "path": "packs/folders.db",
       "entity": "Folder",
-      "module": "SharedData"
+      "module": "rise-of-the-runelords-data"
     },
     {
-      "name": "monsters",
-      "label": "My Monsters",
-      "path": "packs/monsters.db",
-      "entity": "Actor",
-      "module": "SharedData"
+      "name": "journal",
+      "label": "My Journal Entries",
+      "path": "packs/journal.db",
+      "entity": "JournalEntry",
+      "module": "rise-of-the-runelords-data"
     },
     {
       "name": "scenes",
       "label": "My Scenes",
       "path": "packs/scenes.db",
       "entity": "Scene",
-      "module": "SharedData"
+      "module": "rise-of-the-runelords-data"
     }
   ]
  }
