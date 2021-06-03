@@ -13,7 +13,7 @@
     {
       "name": "compendium-folders",
       "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json",
-    },
+    }
    "packs": [
     {
       "name": "folders",
