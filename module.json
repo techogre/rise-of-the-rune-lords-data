@@ -1,40 +1,41 @@
-{   
-   "name": "rise-of-the-runelords-data",   
-   "title": "Rise Of The Runelords - Shared Data",   
-   "description": "Data for Rise Of The Runelords shared by any system.",   
-   "author": "Daniel Gallant",
-   "version": "0.1.0",
-   "url": "https://github.com/techogre/rise-of-the-rune-lords-data",
-   "manifest": "https://raw.githubusercontent.com/techogre/rise-of-the-rune-lords-data/main/module.json",
-   "download": "https://github.com/techogre/rise-of-the-rune-lords-data/archive/main.zip",
-   "minimumCoreVersion": "0.8.6",
-   "compatibleCoreVersion":"0.8.6",
-   "dependencies": [
-    {
-      "name": "compendium-folders",
-      "manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
-    },
-   "packs": [
-    {
-      "name": "folders",
-      "label": "My Folders",
-      "path": "packs/folders.db",
-      "entity": "Folder",
-      "module": "rise-of-the-runelords-data"
-    },
-    {
-      "name": "journal",
-      "label": "My Journal Entries",
-      "path": "packs/journal.db",
-      "entity": "JournalEntry",
-      "module": "rise-of-the-runelords-data"
-    },
-    {
-      "name": "scenes",
-      "label": "My Scenes",
-      "path": "packs/scenes.db",
-      "entity": "Scene",
-      "module": "rise-of-the-runelords-data"
-    }
+{
+	"name": "rise-of-the-runelords-data",	
+	"title": "Rise Of The Runelords - Shared Data",	
+	"description": "Data for Rise Of The Runelords shared by any system.",	
+	"author": "Daniel Gallant",
+	"version": "0.1.0",
+	"url": "https://github.com/techogre/rise-of-the-rune-lords-data",
+	"manifest": "https://raw.githubusercontent.com/techogre/rise-of-the-rune-lords-data/main/module.json",
+	"download": "https://github.com/techogre/rise-of-the-rune-lords-data/archive/main.zip",
+	"minimumCoreVersion": "0.8.6",
+	"compatibleCoreVersion":"0.8.6",
+	"dependencies": [
+		{
+		"name": "compendium-folders",
+		"manifest": "https://raw.githubusercontent.com/earlSt1/vtt-compendium-folders/082-update/module.json"
+		}
+	],
+	"packs": [
+		{
+		"name": "folders",
+		"label": "My Folders",
+		"path": "packs/folders.db",
+		"entity": "Folder",
+		"module": "rise-of-the-runelords-data"
+		},
+	 {
+		"name": "journal",
+		"label": "My Journal Entries",
+		"path": "packs/journal.db",
+		"entity": "JournalEntry",
+		"module": "rise-of-the-runelords-data"
+	 },
+	 {
+		"name": "scenes",
+		"label": "My Scenes",
+		"path": "packs/scenes.db",
+		"entity": "Scene",
+		"module": "rise-of-the-runelords-data"
+	 }
   ]
- }
+}
